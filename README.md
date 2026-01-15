@@ -39,20 +39,41 @@ This is a project to implement a Boolean Network system and related behaviors su
 │
 └── oop_boolean_networks_rna_mirna   <- Source code for use in this project.
     │
-    ├── __init__.py             <- Makes oop_boolean_networks_rna_mirna a Python module
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
+    ├── __init__.py
+    |
+    ├── abn_mir_helper_functions.py
+    |
+    ├── abn_mir_plotting_functions.py
+    |
+    ├── abundant_boolean_networks_with_micro_rna.py
+    |
+    ├── abundant_boolean_networks.py
+    |
+    ├── bn_graph_methods.py
+    |
+    ├── bn_mir_helper_functions_V1.py
+    |
+    ├── boolean_networks.py
+    |
+    ├── helper.py
+    |
+    ├── micro_rna_2.py
+    |
+    ├── mirna_demo_methods.py
+    |
+    ├── nx_docs.py
+    |
+    ├── plotting_helper_methods.py
+    |
+    ├── plotting_revised.py
+    |
+    ├── plotting.py
+    |
+    ├── seq_pert_as_py.py
+    |
+    ├── sequential_perturbations_methods.py
+    |
+    ├── widgets_dev.ipynb
 ```
 
 --------
