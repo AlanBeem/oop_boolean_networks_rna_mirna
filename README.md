@@ -22,9 +22,7 @@ This is a project to implement a Boolean Network system and related behaviors su
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+├── notebooks          <- Jupyter notebooks. Naming convention is reference to classes, or descriptive
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         oop_boolean_networks_rna_mirna and configuration for tools like black
