@@ -80,7 +80,7 @@ This is a project to implement a Boolean Network system and related behaviors su
 
 Figures with same axes as some of the figures in $\text{Kauffman}$ $1969$, from `BN.ipynb`
 
-$N:=number of nodes (e.g., genes)$
+$N$: number of nodes (e.g., genes)
 
 
 <p align="center">
