@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-This is a project to implement a Boolean Network system and related behaviors such as differential equations to calculate RNA abundances and miRNA effects on RNA abundances.
+This is a project to implement a Boolean Network system and related behaviors such as differential equations to calculate RNA abundances and miRNA effects on RNA abundances, with transcriptional state determined by Boolean state, and constant degradation.
 
 ## Project Organization
 
