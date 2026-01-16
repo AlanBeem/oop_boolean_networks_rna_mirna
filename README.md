@@ -80,7 +80,11 @@ This is a project to implement a Boolean Network system and related behaviors su
 
 Figures with same axes as some of the figures in $\text{Kauffman}$ $1969$, from `BN.ipynb`
 
-[/Users/alanbeem/Desktop/CSB430/oop_boolean_networks_rna_mirna/reports/figures/bn/re_kauffman_1.png](https://github.com/AlanBeem/oop_boolean_networks_rna_mirna/blob/main/reports/figures/bn/re_kauffman_1.png)
+
+<p align="center">
+  <img src="https://github.com/AlanBeem/oop_boolean_networks_rna_mirna/blob/main/reports/figures/bn/re_kauffman_1.png" alt="Alt text" />
+</p>
+
 
 <p align="center">
   <img src="/Users/alanbeem/Desktop/CSB430/oop_boolean_networks_rna_mirna/reports/figures/bn/re_kauffman_2.png" alt="Alt text" />
